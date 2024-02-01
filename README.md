@@ -10,7 +10,7 @@ frg
      height="80">](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)bcwkjbw
 
 ## Differences between Metro and [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
-- Google Play libraries removed (fully libre)
+- Google Play libraries removed (fully libre)bvwbv
 - Pro features available for free
 - Fully offline (INTERNET permission removed)
 - Bug fixes
