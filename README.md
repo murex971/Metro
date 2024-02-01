@@ -6,7 +6,7 @@ Material Design music player for Android music loverss
 frg
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)bcwkjbw
+     height="80">](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)bcwkjbwjd
 
 ## Differences between Metro and [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
 - Google Play libraries removed (fully libre)
