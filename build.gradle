@@ -1,7 +1,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
-    ext {
+    ext {{{
         lifecycle_version = '2.6.1'
         navigation_version = '2.5.3'
         mdc_version = '1.9.0-beta01'
