@@ -5,6 +5,8 @@ You can opt-in for the beta build by clicking on this link: https://play.google.
 
 ___
 
+
+
 ## **Q: How to restore my purchases?**
 Make sure to switch and use your account in the Play Store app through which you purchased before installing Retro Music. The Google account used to install the app is also used to purchase/restore the pro license.
 
