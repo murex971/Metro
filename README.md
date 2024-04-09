@@ -1,3 +1,4 @@
+nken
 gello
 koi mil gya
 killdill
@@ -7,7 +8,7 @@ vannnaaaa
 chuchuchuchu
 hellubellubillu
 vroooooooo
-nooooooooooo
+nooooooooooog
 waaaooooooooo
 meowmeow
 hwlcbdcvbdhucwoofwoofoo
