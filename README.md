@@ -1,5 +1,5 @@
 
-Material Design music player for Android music loverssohoyeeeeeeeeeeeeeee
+Material Design music player for Android music lovers
 
 ## Downloads
 frgdha
