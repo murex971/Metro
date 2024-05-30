@@ -1,10 +1,5 @@
-nduodiuefddieechbvlbnhenhnjevncdkcjwefenvwbbdieb
-ndbdguiiiiii
-nnf3rnwlnwfuerifgiwfbbffvwauuuuuuuuhellu
-Material Design music player for Android music loversuv kbkb
-ebiefvvnbvbevjbuvu
 
-## Downloads
+
 
 ekwepfjweopfweobfhefhbvnvbrbvenvrnb
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
