@@ -5,10 +5,7 @@ Material Design music player for Android music loversuv kbkb
 ebiefvvnbvbevjbuvu
 
 ## Downloads
-frgdhaebviebvi
-kdopewjfwejfnffbfibwfbfirvvjbv rbv
-kfopweijfipwecwebcebvckrgh53buyvuv
-fkweopfjkopwe
+
 ekwepfjweopfweobfhefhbvnvbrbvenvrnb
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
