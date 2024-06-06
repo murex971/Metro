@@ -9,6 +9,7 @@
 - Fully offline (INTERNET permission removed)
 - Bug fixes
 - Minor differences in UI
+There's absolutely no difference.
 
 ## 📱 Screenshots
 ### App Themes
