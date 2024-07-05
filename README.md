@@ -6,7 +6,7 @@ wbiw
 ## Differences between Metro and [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
 - Google Play libraries removed (fully libre)bvwbv
 - Pro features available for free
-- Fully offline (INTERNET permission removed)
+- Fully offline (INTERNET permission removed)vgcf
 - Bug fixes
 - Minor differences in UI
 
