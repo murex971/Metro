@@ -1,4 +1,4 @@
- r gwbiw
+kvel r gwbiw
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"bfeb
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)
