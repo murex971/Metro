@@ -9,7 +9,7 @@ kvnlfv
 - Fully offline (INTERNET permission removed)vgcf
 - Bug fixes
 - Minor differences in UIejc v
-
+cjwvbw
 ## 📱 Screenshots
 ### App Themes
 | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="200"/> |
