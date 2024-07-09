@@ -8,7 +8,7 @@ kvnlfv
 - Pro features available for free
 - Fully offline (INTERNET permission removed)vgcf
 - Bug fixes
-- Minor differences in UI
+- Minor differences in UIejc v
 
 ## 📱 Screenshots
 ### App Themes
