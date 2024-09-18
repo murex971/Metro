@@ -3,7 +3,7 @@ ghar
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)cbewifib
 
-## Differences between Metro and [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
+## Differences between Metro and [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)g
 - Google Play libraries removed (fully libre)bvwbvfkrf rfrhfrhf
 - Pro features available for free
 - Fully offline (INTERNET permission removed)vgcf
